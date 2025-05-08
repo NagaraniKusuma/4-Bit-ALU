@@ -17,5 +17,4 @@ ALU (Arithmetic Logic Unit) performs logical and arithmetical on binary numbers 
 
 OUTPUT
 ![Image](https://github.com/user-attachments/assets/8e23bb2e-59b0-498e-b078-57dd60047513)
-![Image](https://github.com/user-attachments/assets/8e23bb2e-59b0-498e-b078-57dd60047513)
 
