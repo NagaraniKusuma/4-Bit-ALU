@@ -16,5 +16,7 @@ Operations are controlled by a selector input usings 4 bits to design the 4-bit 
 ALU (Arithmetic Logic Unit) performs logical and arithmetical on binary numbers it is the key component in processors.
 
 OUTPUT
+![Image](https://github.com/user-attachments/assets/2b535545-355a-47f8-991b-b3d2838b5f42)
+
 ![Image](https://github.com/user-attachments/assets/8e23bb2e-59b0-498e-b078-57dd60047513)
 
